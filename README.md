@@ -7,17 +7,17 @@ The solution architecture is quite generic for modern applications and can be us
 
 ![IoT_solutuion architechture](https://user-images.githubusercontent.com/19657873/34466253-636eeba2-ef21-11e7-9405-19108b6e1a0f.PNG)
 
-##Components
+## Components
 We are going to use the follwoing components:
 Message broker - MQTT mosquitto
 Time series database - InfluxDB
 Front-end visualisation - Grafana
 
-##Implementation steps
+## Implementation steps
 
 Will be using Win10 to access Raspberry PI3 via SSH to perform initial system setup.
 
-	1. Run Cygwin terminal (used Windows 10)
+  1. Run Cygwin terminal (used Windows 10)
 	
   2. Login into PI box via SSH
 	
