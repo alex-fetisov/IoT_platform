@@ -9,9 +9,9 @@ The solution architecture is quite generic for modern applications and can be us
 
 ## Components
 We are going to use the follwoing components:
-Message broker - MQTT mosquitto
-Time series database - InfluxDB
-Front-end visualisation - Grafana
+* Message broker - MQTT mosquitto
+* Time series database - InfluxDB
+* Front-end visualisation - Grafana
 
 ## Implementation steps
 
